@@ -3,4 +3,5 @@
 void main()
 {
   printf("hello world");
+  printf("\nThis is a basic C program");
 }
